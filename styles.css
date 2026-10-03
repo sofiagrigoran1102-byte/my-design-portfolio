@@ -73,3 +73,7 @@ a {
 a:hover {
     color: #530E0E;
 }
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
